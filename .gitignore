@@ -1,0 +1,11 @@
+# FILES
+/settings/local.py
+*.prof
+*.pyc
+*.swp
+._*
+
+# DIRS
+.DS_*
+/.codeintel
+/media
